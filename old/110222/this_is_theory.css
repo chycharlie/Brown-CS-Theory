@@ -1,0 +1,63 @@
+a {
+    color: #CC3300;
+}
+
+a:visited {
+    color: #336633;
+}
+
+#header {
+    margin-left: 70px;
+    margin-right: 70px;
+    float: left;
+}
+
+#title {
+    color: #666666;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.subtitle {
+    font-weight: normal;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#logo {
+    width: 90px;
+}
+
+p,
+li {
+    font-size: 16pt;
+}
+
+h3 {
+    font-size: 16pt;
+    color: maroon;
+}
+
+#main-content {
+    width: 800px;
+}
+
+.content-box {
+    padding-left: 15px;
+}
+
+.fac-pics ul li {
+    display: inline;
+    padding-right: 3px;
+}
+
+.fac-pics ul li img {
+    width: 80px;
+}
+
+.fac-list ul {
+    list-style-type: none;
+    padding: 0px;
+}
