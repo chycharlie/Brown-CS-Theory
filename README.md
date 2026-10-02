@@ -1,5 +1,5 @@
 # Brown-CS-Theory
 
-This repository maintains the "Theoretical Computer Science @ Brown" webpage for easier review, editing, and collaboration.
+This repository used to maintain the "Theoretical Computer Science @ Brown" webpage at http://theory.cs.brown.edu/.
 
-Submit a pull request to edit the webpage. Once your pull request is merged, it will be updated at http://theory.cs.brown.edu/ in a few minutes.
+The page now redirects to the official group page at https://cs.brown.edu/research/cs-theory-group/. The previous content is kept in `old/`.
